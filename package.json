@@ -1,0 +1,22 @@
+{
+  "name": "bencalcapi",
+  "version": "1.0.0",
+  "description": "Welfare advice API",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dnlstronge/bencalcAPI.git"
+  },
+  "author": "Dan Stronge",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dnlstronge/bencalcAPI/issues"
+  },
+  "homepage": "https://github.com/dnlstronge/bencalcAPI#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
