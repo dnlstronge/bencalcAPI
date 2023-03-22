@@ -1,3 +1,6 @@
+// contains data to be served to FE app which require figures dynamically in order to process calculation of 
+// entitlemenet
+
 const pcElements = {
 
     GPCsingle: 182.60,
@@ -19,5 +22,6 @@ const pcElements = {
 const ucElements = {
 
 }
+
 
 module.exports = {pcElements, ucElements}
