@@ -8,5 +8,11 @@ const express = require("express")
 const app = express();
 const port = 3000
 
+// data
+const { pcElements, ucElements } = require("./Data/data")
 
+
+app.get("/pcelements", (req, res ) => [
+    res.send()
+])
 app.listen(port)

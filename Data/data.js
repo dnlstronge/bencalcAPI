@@ -4,7 +4,7 @@ const pcElements = {
 }
 
 const ucElements = {
-    
+
 }
 
-module.exports = {pcElements}
+module.exports = {pcElements, ucElements}
